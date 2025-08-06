@@ -1,3 +1,7 @@
+=============================
+# 🏦 Sistema Bancário
+=============================
+
 💼 Descrição do Sistema Bancário Orientado a Objetos
 Este sistema bancário foi desenvolvido para consolidar e aplicar conceitos fundamentais da Programação Orientada a Objetos (POO), tais como herança, encapsulamento, polimorfismo, abstração e reuso de código. A aplicação simula funcionalidades básicas de um banco, permitindo a gestão de diferentes tipos de contas, operações financeiras e investimentos.
 
